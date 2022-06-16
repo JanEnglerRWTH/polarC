@@ -9,7 +9,7 @@ The scales, where the word is rated the highest (we call these the 'top POLAR_C 
 These dimensions are usually the most descriptive dimensions for a word.
 
 After installing the python packages below:
-Simply run 'python polarC.py' in the main folder and follow the constructions.
+Simply run 'python polarC.py' in the main folder and follow the instructions.
 
 ## Prerequisites
 ### Python packages
