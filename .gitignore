@@ -1,3 +1,10 @@
+external/
+.idea/
+no_git/
+datasets/
+*.ckpt
+utilFunctions/lightning_logs/
+downstream_tasks/GLUE/models/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
